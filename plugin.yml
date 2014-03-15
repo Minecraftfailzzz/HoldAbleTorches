@@ -1,0 +1,6 @@
+main: me.tomg.torches.Main
+name: Holdable Torches
+description: Hold a torch and you'll get NightVision!
+version: 1.0
+authors: 
+    - Minecraftfailzzz
