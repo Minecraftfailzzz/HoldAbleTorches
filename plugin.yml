@@ -4,3 +4,9 @@ description: Hold a torch and you'll get NightVision!
 version: 1.0
 authors: 
     - Minecraftfailzzz
+    - StashCat
+    - webbhead
+permissions:
+    holdabletorches.use:
+        description: allows a player to use the torches to get the effect.
+        default: op
